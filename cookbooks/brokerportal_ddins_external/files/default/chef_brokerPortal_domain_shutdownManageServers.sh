@@ -1,0 +1,1 @@
+/home/oracle/wlst_scripts/shutdownManageServers.sh brokerPortal_domain
